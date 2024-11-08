@@ -1,0 +1,109 @@
+body {
+    background-image: url(./images/pexels-janetrangdoan-1092730.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+    background-repeat: no-repeat;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color:green;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  .established {
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  .food-icon,.drinks,.cinnamon{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 50px;
+    width: 50px;
+  }
+
+  hr {
+    height: 2px;
+    background-color: green;
+    border-color: green;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .item3 p {
+    display: inline-block;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-size: 18px;
+  }
+  
+  .dish, .snacks, .drinks {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  
+  
