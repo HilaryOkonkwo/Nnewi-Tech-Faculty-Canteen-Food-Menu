@@ -10,8 +10,8 @@ The Nnewi Tech Faculty Canteen Menu Project is a simple, static web application 
 4. Static Content: Simple and straightforward for learning and adaptation.
 
 # Technologies Used
-HTML5: Used for Basic structure of the web page, ensuring semantic and accessible organization of content
-CSS: Used for styling the web page
+1. HTML5: Used for Basic structure of the web page, ensuring semantic and accessible organization of content
+2. CSS: Used for styling the web page
 
 # Deployment
 The project is deployed on Vercel, a platform known for its fast and easy deployment of front-end projects.
