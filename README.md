@@ -37,11 +37,11 @@ open index.html
 
 nnewi-tech-canteen-menu/
 
-|-- index.html
+ |-- index.html
 
-|-- styles.css
+ |-- styles.css
 
-|-- images/ 
+ |-- images/ 
 
    |-- (all image assets)
 
